@@ -19,4 +19,5 @@ def using_delete(array, string)
 end 
 
 def using_delete_at(array, string) 
-  array.delete()
+  array.delete("R2D2")
+end
